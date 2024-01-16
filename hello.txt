@@ -11,4 +11,5 @@ hello lk hello git!!
 hello lk hello git!!
 22222
 hot-fix
-add test github 
+add test github
+ssh之后输入的密码，验证ssh
